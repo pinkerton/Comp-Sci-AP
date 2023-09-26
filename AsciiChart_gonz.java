@@ -6,7 +6,7 @@ public class AsciiChart_gonz {
 			System.out.printf("%c", i);
 			i++;
 		}
-		System.out.println();
+		System.out.println("asdf);
 	}
 	} 
 }
